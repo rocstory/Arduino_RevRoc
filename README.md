@@ -38,7 +38,7 @@ The following hardware devices were used in creating Revealing Roc:
   Displays a set of characters after the player obtains 3 points.
 - 1x 74HC595 shift bit register
   Used to display the secret message.
-- 1x Arduino nano
+- 1x Arduino Nano
   Controls the behavior of the hardware being used
 
 ## Software
