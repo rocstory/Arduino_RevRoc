@@ -4,12 +4,13 @@
 # Revealing Roc
 
 ## Story behind Revealing Roc
-
-	Roc is an individual who contains many secrets, however to unlock such secrets you must solve one of Roc’s several puzzles. One of her puzzle’s is called Revealing Roc. It requires you to find a Roc Bulb 3 times, however you only have 3 tries to do so. 
+Roc is an individual who contains many secrets, however to unlock such secrets you must solve one of Roc’s several puzzles. 
+One of her puzzle’s is called Revealing Roc. It requires you to find a Roc Bulb 3 times, however you only have 3 tries to do so. 
 
 ## Objective
 
-	The objective of the puzzle is to move through a 4x4 board to find the Roc Bulb 3 times.
+The objective of the puzzle is to move through a 4x4 board to find the 
+Roc Bulb 3 times.
 
 ## Controls
 
