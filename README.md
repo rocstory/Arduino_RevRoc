@@ -1,6 +1,3 @@
-# Arduino_RevRoc
-
-
 # Revealing Roc
 
 ## Story behind Revealing Roc
