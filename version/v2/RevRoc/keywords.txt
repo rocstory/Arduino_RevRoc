@@ -1,0 +1,9 @@
+RevRoc				KEYWORD1
+begin				KEYWORD2
+movePlayer			KEYWORD2
+changePositionOfTarget		KEYWORD2
+verifyGuess			KEYWORD2
+getPlayersPosition	KEYWORD2
+getTargetsPosition	KEYWORD2
+getLives			KEYWORD2
+getPoints			KEYWORD2
