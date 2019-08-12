@@ -29,17 +29,17 @@ The following hardware devices were used in creating Revealing Roc:
 - 3 Red (indicating the player’s lives)
 - 3 Green (indicating the player’s lives)
 - 1x 4x4 WS2812B LED Matrix
-- The game board
+  The game board
 - 1x Switch
-- The button that submits the player’s guess.
+  The button that submits the player’s guess.
 - 1x 2-Axis Joystick
-- Allows the player to move across the board
+  Allows the player to move across the board
 - 1x Seven-segment display
-- Displays a set of characters after the player obtains 3 points.
+  Displays a set of characters after the player obtains 3 points.
 - 1x 74HC595 shift bit register
-- Used to display the secret message.
+  Used to display the secret message.
 - 1x Arduino nano
-- Controls the behavior of the hardware being used
+  Controls the behavior of the hardware being used
 
 ## Software
 
